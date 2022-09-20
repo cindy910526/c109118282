@@ -27,6 +27,18 @@ hi
 4. orange
 5. black
 
+- [ ] grape
+- [ ] apple
+- [x] banana
+- [x] orange
+
+🍎 🍇
+
+| fruit | quantity | color |
+| :---- |:--------:| -----:|
+| apple | 2        | red   |
+| grape | 5        | purple|
+
 ---
 
 **nkust**  ~~nkust~~  *nkust*
