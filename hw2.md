@@ -1,14 +1,11 @@
 (1)PERT/CPM 圖
 
+
+
 (2)甘特圖
-```mermaid
-gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-```
-    
+
+![image](https://user-images.githubusercontent.com/113968695/193846325-926f895d-af1e-49e8-bd9e-da276e1f1e12.png)
+
+![image](https://user-images.githubusercontent.com/113968695/193846176-d8ba82dd-955c-41a6-9048-cda913bfbd5a.png)
+
+
