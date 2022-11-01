@@ -42,3 +42,13 @@ public class app11 {
 }
 
 ```
+
+
+javascript code
+
+```javascript
+
+var s = "javascript syntax highlighting";
+alert(s);
+
+```
